@@ -1,0 +1,434 @@
+{
+    "actions": [
+        {
+            "action": "send_dm_all",
+            "user": "kofu660",
+            "target": null,
+            "details": "Message: test encore desoler !, Envoy\u00e9: 7, \u00c9checs: 0",
+            "timestamp": "2025-06-02T13:22:58.684381+00:00"
+        },
+        {
+            "action": "send_dm",
+            "moderator": "kofu660",
+            "target": "son.of.ki",
+            "reason": null,
+            "duration": null,
+            "details": "Message: test ta recus ?",
+            "timestamp": "2025-06-10T17:26:32.080045+00:00"
+        },
+        {
+            "action": "kick",
+            "moderator": "kofu660",
+            "target": "dhsibfhsid",
+            "reason": "test",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:35:57.560470+00:00"
+        },
+        {
+            "action": "ban",
+            "moderator": "kofu660",
+            "target": "dhsibfhsid",
+            "reason": "ta mere la pute comme celle de mathieux",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:37:27.020684+00:00"
+        },
+        {
+            "action": "ban",
+            "moderator": "kofu660",
+            "target": "dhsibfhsid",
+            "reason": "test",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:38:51.175576+00:00"
+        },
+        {
+            "action": "command_error",
+            "moderator": "DiDi#5396",
+            "target": "kofu660",
+            "reason": null,
+            "duration": null,
+            "details": "Command raised an exception: TypeError: object async_generator can't be used in 'await' expression",
+            "timestamp": "2025-06-10T17:40:27.666210+00:00"
+        },
+        {
+            "action": "command_error",
+            "moderator": "DiDi#5396",
+            "target": "kofu660",
+            "reason": null,
+            "duration": null,
+            "details": "Command raised an exception: TypeError: object async_generator can't be used in 'await' expression",
+            "timestamp": "2025-06-10T17:40:48.964306+00:00"
+        },
+        {
+            "action": "clear",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "10 messages supprim\u00e9s dans \ud83e\udd16\ufe31command",
+            "timestamp": "2025-06-10T17:41:29.566288+00:00"
+        },
+        {
+            "action": "warn",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": "Aucune raison fournie",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:41:44.137828+00:00"
+        },
+        {
+            "action": "warn",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": "Aucune raison fournie",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:42:16.625178+00:00"
+        },
+        {
+            "action": "warn",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": "Aucune raison fournie",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:42:26.655225+00:00"
+        },
+        {
+            "action": "ban",
+            "moderator": "DiDi#5396",
+            "target": "wafix03000",
+            "reason": "Bannissement automatique apr\u00e8s 3 avertissements",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:42:27.445845+00:00"
+        },
+        {
+            "action": "ban",
+            "moderator": "kofu660",
+            "target": "dhsibfhsid",
+            "reason": null,
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:44:58.968600+00:00"
+        },
+        {
+            "action": "warn",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": "test",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:45:55.122554+00:00"
+        },
+        {
+            "action": "ban",
+            "moderator": "DiDi#5396",
+            "target": "wafix03000",
+            "reason": "Bannissement automatique apr\u00e8s 3 avertissements",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:45:55.907130+00:00"
+        },
+        {
+            "action": "unwarn",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": null,
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:46:49.821462+00:00"
+        },
+        {
+            "action": "warn",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": "Aucune raison fournie",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:46:56.218326+00:00"
+        },
+        {
+            "action": "warn",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": "Aucune raison fournie",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:47:11.353146+00:00"
+        },
+        {
+            "action": "unwarn",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": null,
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:47:21.031452+00:00"
+        },
+        {
+            "action": "mute",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": "test",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:48:06.078966+00:00"
+        },
+        {
+            "action": "unmute",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": null,
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:48:33.633850+00:00"
+        },
+        {
+            "action": "tempmute",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": "test",
+            "duration": "1m",
+            "details": null,
+            "timestamp": "2025-06-10T17:49:10.943565+00:00"
+        },
+        {
+            "action": "unmute",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": null,
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:49:36.185162+00:00"
+        },
+        {
+            "action": "channel_lock",
+            "moderator": "kofu660",
+            "target": "\ud83d\udcac\ufe31discussion",
+            "reason": null,
+            "duration": null,
+            "details": "Canal \ud83d\udcac\ufe31discussion verrouill\u00e9",
+            "timestamp": "2025-06-10T17:50:17.127255+00:00"
+        },
+        {
+            "action": "tempunmute",
+            "moderator": "DiDi#5396",
+            "target": "wafix03000",
+            "reason": "Sourdine temporaire termin\u00e9e apr\u00e8s 1m",
+            "duration": null,
+            "details": null,
+            "timestamp": "2025-06-10T17:50:20.805728+00:00"
+        },
+        {
+            "action": "channel_unlock",
+            "moderator": "kofu660",
+            "target": "\ud83d\udcac\ufe31discussion",
+            "reason": null,
+            "duration": null,
+            "details": "Canal \ud83d\udcac\ufe31discussion d\u00e9verrouill\u00e9",
+            "timestamp": "2025-06-10T17:50:53.929194+00:00"
+        },
+        {
+            "action": "channel_lock",
+            "moderator": "kofu660",
+            "target": "\ud83d\udcac\ufe31discussion",
+            "reason": null,
+            "duration": null,
+            "details": "Canal \ud83d\udcac\ufe31discussion verrouill\u00e9",
+            "timestamp": "2025-06-10T17:50:58.428035+00:00"
+        },
+        {
+            "action": "clear",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "35 messages supprim\u00e9s dans \ud83d\udcac\ufe31discussion",
+            "timestamp": "2025-06-10T17:51:14.418623+00:00"
+        },
+        {
+            "action": "slowmode_on",
+            "moderator": "kofu660",
+            "target": "\ud83d\udcac\ufe31discussion",
+            "reason": null,
+            "duration": "3s",
+            "details": null,
+            "timestamp": "2025-06-10T17:51:26.587986+00:00"
+        },
+        {
+            "action": "ticket_panel_sent",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Panel de tickets envoy\u00e9 dans \ud83e\udeaa\ufe31ticket-boost",
+            "timestamp": "2025-06-10T17:52:10.714052+00:00"
+        },
+        {
+            "action": "ticket_create",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Ticket cr\u00e9\u00e9 via panel : ticket-863848649439838248",
+            "timestamp": "2025-06-10T17:52:16.515328+00:00"
+        },
+        {
+            "action": "ticket_close",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Ticket ferm\u00e9 : ticket-863848649439838248 par le bouton",
+            "timestamp": "2025-06-10T17:52:49.865974+00:00"
+        },
+        {
+            "action": "ticket_create",
+            "moderator": ".augugu",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Ticket cr\u00e9\u00e9 via panel : ticket-538671565316030474",
+            "timestamp": "2025-06-10T17:52:59.693558+00:00"
+        },
+        {
+            "action": "ticket_rename",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Ticket renomm\u00e9 en ticket-boost-valorant",
+            "timestamp": "2025-06-10T17:54:01.943475+00:00"
+        },
+        {
+            "action": "ticket_rename",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Ticket renomm\u00e9 en ticket-boost-valorant",
+            "timestamp": "2025-06-10T17:54:25.692958+00:00"
+        },
+        {
+            "action": "ticket_create",
+            "moderator": "wafix03000",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Ticket cr\u00e9\u00e9 via panel : ticket-1346452738866679958",
+            "timestamp": "2025-06-10T17:54:59.977101+00:00"
+        },
+        {
+            "action": "ticket_close",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Ticket ferm\u00e9 : ticket-1346452738866679958 par le bouton",
+            "timestamp": "2025-06-10T17:55:14.032728+00:00"
+        },
+        {
+            "action": "ticket_close",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Ticket ferm\u00e9 : ticket-boost-valorant par la commande",
+            "timestamp": "2025-06-10T17:55:50.812929+00:00"
+        },
+        {
+            "action": "ticket_close",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Ticket ferm\u00e9 : ticket-boost-valorant par le bouton",
+            "timestamp": "2025-06-10T17:55:57.520512+00:00"
+        },
+        {
+            "action": "send_dm",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": null,
+            "duration": null,
+            "details": "Message: ange mon paff",
+            "timestamp": "2025-06-10T17:56:57.915352+00:00"
+        },
+        {
+            "action": "giveaway_start",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Concours 'test' pour 10s",
+            "timestamp": "2025-06-10T17:57:59.879765+00:00"
+        },
+        {
+            "action": "giveaway_end",
+            "moderator": "kofu660",
+            "target": "kofu660",
+            "reason": null,
+            "duration": null,
+            "details": "Gagnant : kofu660, Prix : test",
+            "timestamp": "2025-06-10T17:58:11.257310+00:00"
+        },
+        {
+            "action": "feedback",
+            "moderator": "wafix03000",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "merci",
+            "timestamp": "2025-06-10T18:01:55.451291+00:00"
+        },
+        {
+            "action": "anti_raid",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Activ\u00e9",
+            "timestamp": "2025-06-10T18:03:02.847851+00:00"
+        },
+        {
+            "action": "anti_raid",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "D\u00e9sactiv\u00e9",
+            "timestamp": "2025-06-10T18:03:08.710773+00:00"
+        },
+        {
+            "action": "send_dm",
+            "moderator": "kofu660",
+            "target": ".augugu",
+            "reason": null,
+            "duration": null,
+            "details": "Message: \ud83d\udcda Aide des commandes du bot\nVoici la liste de toutes les commandes disponibles (le pr\u00e9fixe est !) :\n\ud83d\udc6e\u200d\u2642\ufe0f Mod\u00e9ration\nkick <membre> [raison]\nban <membre> [raison]\nunban <nom#tag ou ID>\nclear <nombre>\nwarn <membre> [raison]\nunwarn <membre>\nmute <membre> [raison]\nunmute <membre>\ntempmute <membre> <dur\u00e9e> [raison]\nlock\nunlock\nslowmode <secondes>\n\ud83c\udfab Syst\u00e8me de Tickets\nticketpanel (pour cr\u00e9er le panel)\nticket close (\u00e0 utiliser dans un ticket)\nrename <nouveau_nom> (dans un ticket)\n\ud83d\udee0\ufe0f Utilitaires\nsend <@membre> <message>\nsendall <message>\ngiveaway <dur\u00e9e> <prix>\nsondage <question>\nuserinfo [membre]\nbanid <ID> [raison]\nkickid <ID> [raison]\nunbanid <ID>\nfeedback <message>\nping\nserverinfo\n8ball <question>\nsay <message>\n\ud83d\udee1\ufe0f Anti-Raid\nraid on\nraid off\nPr\u00e9fixe actuel : !",
+            "timestamp": "2025-06-10T18:03:51.270010+00:00"
+        },
+        {
+            "action": "send_dm",
+            "moderator": "kofu660",
+            "target": "wafix03000",
+            "reason": null,
+            "duration": null,
+            "details": "Message: \ud83d\udcda Aide des commandes du bot\nVoici la liste de toutes les commandes disponibles (le pr\u00e9fixe est !) :\n\ud83d\udc6e\u200d\u2642\ufe0f Mod\u00e9ration\nkick <membre> [raison]\nban <membre> [raison]\nunban <nom#tag ou ID>\nclear <nombre>\nwarn <membre> [raison]\nunwarn <membre>\nmute <membre> [raison]\nunmute <membre>\ntempmute <membre> <dur\u00e9e> [raison]\nlock\nunlock\nslowmode <secondes>\n\ud83c\udfab Syst\u00e8me de Tickets\nticketpanel (pour cr\u00e9er le panel)\nticket close (\u00e0 utiliser dans un ticket)\nrename <nouveau_nom> (dans un ticket)\n\ud83d\udee0\ufe0f Utilitaires\nsend <@membre> <message>\nsendall <message>\ngiveaway <dur\u00e9e> <prix>\nsondage <question>\nuserinfo [membre]\nbanid <ID> [raison]\nkickid <ID> [raison]\nunbanid <ID>\nfeedback <message>\nping\nserverinfo\n8ball <question>\nsay <message>\n\ud83d\udee1\ufe0f Anti-Raid\nraid on\nraid off\nPr\u00e9fixe actuel : !",
+            "timestamp": "2025-06-10T18:04:06.021987+00:00"
+        },
+        {
+            "action": "mass_dm",
+            "moderator": "kofu660",
+            "target": null,
+            "reason": null,
+            "duration": null,
+            "details": "Envoy\u00e9 \u00e0 9 membres, 0 \u00e9checs",
+            "timestamp": "2025-06-10T18:05:00.850244+00:00"
+        }
+    ]
+}
