@@ -16,11 +16,11 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 PREFIX = "!"
 LOGS_FILE = "logs.json"
 WARNS_FILE = "warns.json"
-# IMPORTANT : Le nom de la catégorie doit être exactement le même sur Discord !
+
 TICKET_CATEGORY_NAME = "Tickets"
 MAX_WARNS = 3
 
-# Mettez vos mots interdits ici, en minuscules.
+
 bad_words = ["mot1", "mot2", "mot3", "exemple"]
 
 intents = discord.Intents.all()
@@ -28,7 +28,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix=PREFIX, intents=intents, help_command=None)
 
-# Variable anti-raid
+
 anti_raid_enabled = False
 user_last_message_times = {}
 
@@ -1162,12 +1162,12 @@ async def on_command_error(ctx, error):
             await ctx.send(f"🚫 Vous n'avez pas les permissions nécessaires pour cette commande : `{perms_needed}`.", ephemeral=True)
         elif isinstance(error, commands.NotOwner):
              await ctx.send("🚫 Seul le propriétaire du bot peut utiliser cette commande.", ephemeral=True)
-        else: # Pour les autres types de CheckFailure (comme is_admin personnalisé)
+        else: 
              await ctx.send("🚫 Vous n'avez pas la permission d'utiliser cette commande.", ephemeral=True)
     elif isinstance(error, commands.MemberNotFound):
-        await ctx.send("❌ Membre introuvable. Veuillez vous assurer d'avoir correctement orthographié le nom ou fourni un ID valide.", ephemeral=True)
+        await ctx.send("❌ Le memebre saisie est invalide verifier L'identifiant !", ephemeral=True)
     elif isinstance(error, discord.Forbidden):
-        await ctx.send("🚫 Je n'ai pas la permission d'effectuer cette action dans ce canal ou pour cet utilisateur.", ephemeral=False) # Important: pas toujours éphémère si le bot ne peut pas DM
+        await ctx.send("🚫 DIDI N'as pas la permitiondefaire cela !", ephemeral=False) 
     else:
         print(f"Ignorer l'exception dans la commande {ctx.command} :", error)
         await ctx.send(f"Une erreur inattendue est survenue : {error}", ephemeral=True)
@@ -1175,11 +1175,11 @@ async def on_command_error(ctx, error):
 
 # --- Exécuter le bot ---
 if TOKEN is None:
-    print("Erreur : Le token Discord n'est pas chargé. Assurez-vous d'avoir un fichier .env avec DISCORD_TOKEN='VOTRE_TOKEN_BOT'")
+    print("Erreur : Vous devez entrer votre token dans le fichier .env !")
 else:
     try:
         bot.run(TOKEN)
     except discord.LoginFailure:
-        print("Erreur de connexion : Le token fourni est invalide. Vérifiez votre fichier .env.")
+        print("Erreur de connexion : Verifier le token present dans le fichier .env !.")
     except Exception as e:
         print(f"Une erreur inattendue est survenue au démarrage du bot : {e}")
