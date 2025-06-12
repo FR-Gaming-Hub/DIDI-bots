@@ -17,7 +17,7 @@ PREFIX = "!"
 LOGS_FILE = "logs.json"
 WARNS_FILE = "warns.json"
 
-TICKET_CATEGORY_NAME = "Tickets"
+TICKET_CATEGORY_NAME = "Tickets support"
 MAX_WARNS = 3
 
 
